@@ -5,9 +5,6 @@ La aplicación reconoce números dibujados dentro de un recuadro e identifica co
 ### Dependencia Utilzada
 tflite : https://pub.dev/packages/tflite
 
-### Tutorial Youtube
-
-
 Desarrollado por Steeven Ortega
 Universidad de las Américas
 
